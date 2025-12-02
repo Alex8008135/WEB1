@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tienda Online</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #FF9800;
+color: white;
+text-align: center;
+padding: 20px;
+}
+nav {
+background-color: #f2f2f2;
+padding: 15px;
+text-align: center;
+}
+nav a {
+margin: 0 15px;
+text-decoration: none;
+color: #333;
+font-weight: bold;
+}
+section {
+padding: 20px;
+}
+img {
+max-width: 300px;
+margin: 10px;
+}
+</style>
+</head>
+<body>
+<!-- Secci�n 1: T�tulo --> <header> </header>
+<h1>Tienda online<br>
+</h1>
+<!-- Secci�n 2: Enlaces a las dem�s p�ginas --> <nav> <a
+href="P%C3%A1gina%20del%20Grupo.html">Página Principal</a>&nbsp; <a
+href="P%C3%A1gina%20de%20Marta.html">¿Qué ofrecemos?</a> </nav><!-- Secci�n 3: Contenido de Luis -->
+<section></section>&nbsp; <br>
+<br>
+En esta sección nos encargamos de ofrecer una amplia gama de productos
+los cuales han sido reparados por nosotros para aquellos usuarios en
+busca de equipos funcionales y de coste bajo <br>
+<br>
+<h2><a
+href="https://www.pccomponentes.com/pc-racing-gaming-amd-ryzen-3-4300g-8gb-1tb-ssd?utm_source=google&amp;utm_medium=free-listings&amp;srsltid=AfmBOoqrA6Hih1l86yWzISV28cNokhiVl0mt3d5z6bbI1ja8_CItHoppuho"><img
+src="Captura%20de%20pantalla%202025-12-01%20103825.png" alt=""
+border="0" height="201" width="153"></a><a
+href="https://www.pccomponentes.com/pccom-work-intel-core-i5-12400-16gb-500gb-ssd"><img
+src="../AppData/Local/Temp/moz-screenshot.jpg" alt="" border="0"
+height="206" width="143"></a><a
+href="https://www.pccomponentes.com/alurin-corevisio"><img alt=""
+src="../AppData/Local/Temp/moz-screenshot-2.jpg" height="214"
+width="137"></a></h2>
+<p><a href="https://www.pccomponentes.com/alurin-corevisio"><img
+src="../AppData/Local/Temp/moz-screenshot-1.jpg" alt="" border="0"
+height="237" width="131"></a><a
+href="https://www.pccomponentes.com/tempest-phantom-strike-black-edition-raton-gaming-12800-dpi-gris"><img
+src="Captura%20de%20pantalla%202025-12-01%20104749.png" alt=""
+border="0" height="230" width="144"></a></p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<h2>
+</h2>
+<p>
+</p>
+</body>
+</html>
